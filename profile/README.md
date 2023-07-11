@@ -1,8 +1,11 @@
 
 <div align="center">
 
-  <a href="https://wasmer.io" target="_blank" rel="noopener noreferrer">
-    <img width="300" src="https://raw.githubusercontent.com/wasmerio/wasmer/master/assets/logo.png" alt="Wasmer logo">
+  <a href="https://wasmer.io" target="_blank">
+    <picture>
+      <source srcset="https://raw.githubusercontent.com/wasmerio/wasmer/master/assets/logo-white.png"  media="(prefers-color-scheme: dark)">
+      <img width="300" src="https://raw.githubusercontent.com/wasmerio/wasmer/master/assets/logo.png" alt="Wasmer logo">
+    </picture>
   </a>
 
   <p>
